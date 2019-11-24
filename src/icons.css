@@ -1,0 +1,19 @@
+.tennisIcon{
+  padding: 0 0 0 23px;
+  background: transparent url(./images/icons/tennis.png) 1px 4px no-repeat;
+}
+
+.footballIcon{
+  padding: 0 0 0 23px;
+  background: transparent url(./images/icons/football.png) 1px 4px no-repeat;
+}
+
+.basketballIcon{
+  padding: 0 0 0 23px;
+  background: transparent url(./images/icons/basketball.png) 1px 4px no-repeat;
+}
+
+.defaultGameIcon{
+  padding: 0 0 0 23px;
+  background: transparent url(./images/icons/default.png) 1px 4px no-repeat;
+}
